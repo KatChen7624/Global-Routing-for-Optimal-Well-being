@@ -1,0 +1,50 @@
+San Jose,Petaluma,Danville,Mountain View,Fremont,Santa Clara,Martinez,Cupertino
+San Francisco,Martinez,Santa Clara,San Rafael,Pacifica,Dublin,Vacaville,Pleasanton
+Oakland,Martinez,Petaluma,Hayward,Napa,Santa Clara,Fairfield,Mountain View
+Fremont,Vallejo,Pittsburg,Campbell,San Francisco,South San Francisco,Pleasant Hill
+Santa Rosa,Pittsburg,Concord,Danville,Santa Clara,San Bruno,Rohnert Park,Antioch
+Hayward,San Ramon,Santa Rosa,Berkeley,Oakland,Pittsburg,Cupertino,Antioch
+Sunnyvale,Morgan Hill,Palo Alto,Walnut Creek,Pittsburg,Fremont,Santa Rosa,San Jose
+Santa Clara,Martinez,Santa Rosa,Petaluma,Antioch,Walnut Creek,San Francisco,Mountain View
+Vallejo,Daly City,Alameda,San Leandro,Walnut Creek,Rohnert Park,Sunnyvale,Pleasant Hill
+Concord,Pleasanton,Menlo Park,Pacifica,Union City,Fairfield,Brentwood,Petaluma
+Berkeley,Pittsburg,Santa Rosa,Menlo Park,Walnut Creek,Newark,Cupertino,Santa Clara
+Fairfield,Napa,Pleasanton,Newark,Richmond,Santa Clara,Concord
+Richmond,Union City,San Ramon,Pleasanton,Pleasant Hill,Fairfield,Antioch,San Rafael
+Antioch,Daly City,Oakley,Santa Clara,Richmond,Mountain View,Santa Rosa,Dublin
+San Mateo,Antioch,San Jose,Sunnyvale,Milpitas,Rohnert Park,Campbell,Fremont
+Daly City,Berkeley,Union City,Pleasant Hill,South San Francisco,Danville,Pleasanton,Livermore
+Vacaville,Sunnyvale,Brentwood,San Bruno,Richmond,San Francisco,Oakland,Pittsburg
+San Leandro,Vacaville,Newark,Pacifica,Campbell,Antioch,Danville,San Rafael
+Livermore,Menlo Park,Pacifica,Alameda,Cupertino,Palo Alto,Martinez,Redwood City
+San Ramon,San Bruno,Cupertino,Daly City,South San Francisco,Walnut Creek,Pleasanton,Oakland
+Redwood City,Concord,Hayward,San Bruno,Fremont,San Francisco,Santa Rosa,Palo Alto
+Mountain View,Livermore,San Ramon,Dublin,Sunnyvale,Cupertino,Napa,San Bruno
+Milpitas,Vallejo,Oakley,Vacaville,Berkeley,Gilroy,Danville,Palo Alto
+Pleasanton,San Ramon,Campbell,Antioch,San Francisco,Foster City,Cupertino,Newark
+Napa,San Jose,San Francisco,Livermore,Vacaville,Vallejo,Fremont,Brentwood
+Alameda,Vallejo,San Ramon,Napa,San Francisco,San Leandro,Hayward,Milpitas
+Pittsburg,San Jose,Campbell,Fremont,Petaluma,Alameda,Rohnert Park,Milpitas
+Dublin,Alameda,San Leandro,Newark,Pleasanton,Walnut Creek,San Mateo,Palo Alto
+Union City,San Rafael,Petaluma,Brentwood,Dublin,Antioch,Oakley,Palo Alto
+Walnut Creek,San Mateo,Morgan Hill,Sunnyvale,Pleasant Hill,Hayward,San Jose,Martinez
+Palo Alto,Napa,Concord,Newark,Santa Clara,Antioch,Martinez,Oakland
+South San Francisco,San Rafael,Fairfield,Rohnert Park,Oakland,Menlo Park,Antioch,Brentwood
+Brentwood,Mountain View,Petaluma,Pittsburg,Martinez,San Leandro,Palo Alto,Novato
+San Rafael,Menlo Park,San Mateo,Walnut Creek,Pleasant Hill,Antioch,Santa Clara,Vallejo
+Cupertino,San Ramon,Petaluma,San Bruno,Redwood City,Fairfield,South San Francisco,Martinez
+Petaluma,San Mateo,Redwood City,Oakley,Novato,Sunnyvale,Pacifica,San Francisco
+Gilroy,Dublin,Menlo Park,Walnut Creek,Martinez,Cupertino,Milpitas,South San Francisco
+Novato,Alameda,Palo Alto,Fairfield,Santa Clara,Sunnyvale,Vacaville,San Francisco
+Newark,Pacifica,Antioch,Dublin,Brentwood,San Bruno,Concord
+Morgan Hill,Napa,Concord,Campbell,Union City,Fremont,Cupertino,South San Francisco
+Rohnert Park,Novato,Oakley,Petaluma,Sunnyvale,Redwood City,San Francisco,Napa
+Campbell,Menlo Park,Pacifica,San Bruno,San Ramon,Dublin,Vallejo
+San Bruno,San Francisco,Richmond,Pleasanton,Daly City,Sunnyvale,Pittsburg,Martinez
+Danville,Redwood City,Dublin,Sunnyvale,Daly City,Vacaville,San Rafael,Rohnert Park
+Oakley,Rohnert Park,Union City,Brentwood,San Bruno,San Francisco,San Leandro,Antioch
+Pacifica,Walnut Creek,Cupertino,San Bruno,Campbell,South San Francisco,Santa Clara,Foster City
+Martinez,Walnut Creek,Napa,Newark,Pleasanton,Daly City,Redwood City,Pittsburg
+Pleasant Hill,Concord,San Bruno,Santa Rosa,Oakley,Richmond,Novato,Oakland
+Foster City,Petaluma,San Jose,Hayward,Fairfield,Alameda,San Francisco,Morgan Hill
+Menlo Park,Pacifica,Oakley,Vallejo,Concord,Fairfield,Pittsburg
